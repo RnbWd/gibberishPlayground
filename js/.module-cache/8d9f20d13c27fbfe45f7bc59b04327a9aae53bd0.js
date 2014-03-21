@@ -3,7 +3,7 @@
 var t1 = [];
 var Center = React.createClass({displayName: 'Center',
  getInitialState: function() {
-    return {value: "432", sineR: 'off', sineL: 'off', right: 1, left: 1}
+    return {value: "432", sineR: 'off', sineL: 'off', right: 0, left: 0}
   },
   componentDidMount: function() {
     //var audioSource = Gibberish.context.createMediaElementSource(this.refs.myAudio.getDOMNode());
