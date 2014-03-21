@@ -1,0 +1,65 @@
+h1, h4 {
+  text-align: center;
+}
+body {
+  overflow: hidden;
+}
+
+#textInputL {
+  position: relative;
+  top:2%;
+  left: 35%;
+  box-shadow: 6px 6px 4px #888888;
+  width: 15%;
+
+}
+#textInputR {
+  position: relative;
+  top:2%;
+  left: 55%;
+  box-shadow: 6px 6px 4px #888888;
+  width: 15%;
+  }
+
+#awesome {
+  position: relative;
+  color: transparent;
+  top:10%;
+  left: -3%;
+  padding: 5px;
+  margin-bottom: 40px;
+  text-shadow: 10px 20px 2px #888888;
+
+}
+.play {
+  box-shadow: 7px 7px 5px #888888;
+  width: 160px;
+  height: 160px;
+  margin-top: -100px;
+}
+.filters {
+  width: 200px;
+  margin: 0 auto;
+}
+.connect {
+  position: relative;
+  left: 45%;
+  width: 10%;
+  box-shadow: 5px 5px 3px #888888;
+
+}
+
+.player {
+  position: fixed;
+  left: 20%;
+  top: 50%;
+  box-shadow: 7px 7px 5px #888888;
+}
+
+.form-control {
+  display: inline;
+}
+
+
+
+
